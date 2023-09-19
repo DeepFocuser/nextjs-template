@@ -1,0 +1,20 @@
+{
+    "name": "DeepFocuser Next.js App",
+    "short_name": "DeepFocuser App",
+    "icons": [
+        {
+            "src": "/images/me.jpg",
+            "sizes": "640x480",
+            "type": "image/jpg"
+        }
+    ],
+    "lang": "ko",
+    "dir": "ltr",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "landscape-primary",
+    "description": "Website description",
+    "categories": []
+}
