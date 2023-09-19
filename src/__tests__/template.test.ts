@@ -10,7 +10,7 @@ describe('env-test', () => {
         expect(process.env.NAME).toBeDefined();
     });
 
-    it('should have a NAME equal to NEXTJSAPP', () => {
-        expect(process.env.NAME).toBe('NEXTJSAPP');
+    it('should have a NAME equal to NextTemplate', () => {
+        expect(process.env.NAME).toBe('NextTemplate');
     });
 });
